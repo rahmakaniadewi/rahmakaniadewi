@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/99404828/153617717-492d1587-a908-41f1-b729-16ca26251230.png"/>
 </h1>
 
-Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics student at the faculty of mathematics and science,Padjadjaran University. Every time I always meet and analyze it to produce information. I am familiar with data software like R, Python, SPSS, etc. I'm interested in becoming a data analyst/data science. I am a person who attaches importance to attitude, honesty and manners, has a high willingness to learn something new, has good communication skills, hard working person, and good planning person. 
+Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics student at the faculty of mathematics and science,Padjadjaran University. Every time I always meet and analyze it to produce information so me familiar with data software like R, Python, SPSS, etc , and interested in becoming a data analyst/data science . I am a person who attaches importance to attitude, honesty and manners, has a high willingness to learn something new, has good communication skills, hard working person, and good planning person. 
 
 - 📍 Location: Bandung,Indonesia.
 - ⚡ Fun fact: eat and travel lover
