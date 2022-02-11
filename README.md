@@ -17,6 +17,8 @@ Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics studen
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://https://www.r-project.org//" target="_blank"> <img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/99404828/153589485-db0b4353-7480-434a-9b4c-775f28b1909f.jpg"/> </a>
 <a href="https://https://www.ibm.com/analytics/spss-statistics-software//" target="_blank"> <img align="left" alt="SPSS" width="26px" src="https://user-images.githubusercontent.com/99404828/153589776-01b34821-0340-48bb-9ee7-82bf59e73c7e.png"/> </a>
+<a href="https://https://www.google.com/aclk?sa=l&ai=DChcSEwi6gPGe_Pf1AhUWJSsKHfi9BGoYABAAGgJzZg&ae=2&sig=AOD64_0joSYBGl9o16KdhStghjgaR8ExpA&q&adurl&ved=2ahUKEwjaluqe_Pf1AhWuSGwGHQR4DrQQ0Qx6BAgDEAE" target="_blank"> <img align="left" alt="Microsoft" width="26px" src="https://user-images.githubusercontent.com/99404828/153620934-e14aa195-d158-4078-9671-2860dea1ccbc.png"/> </a>
+<a href="https://www.mysql.com///" target="_blank"> <img align="left" alt="SPSS" width="26px" src="https://user-images.githubusercontent.com/99404828/153621108-dfe2e86f-7de5-4a22-863b-f5174592c8c3.png"/> </a>
 <br />
 
 ### Github Statistic
