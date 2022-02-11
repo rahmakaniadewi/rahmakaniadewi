@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/99404828/153617717-492d1587-a908-41f1-b729-16ca26251230.png"/>
 </h1>
 
-Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics student at the faculty of mathematics and science,Padjadjaran University. Every time I always meet and analyze it to produce information. I am familiar with data software like R, Python, SPSS, etc. I'm interested in becoming a data analyst/data science. 
+Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics student at the faculty of mathematics and science,Padjadjaran University. Every time I always meet and analyze it to produce information. I am familiar with data software like R, Python, SPSS, etc. I'm interested in becoming a data analyst/data science. I am a person who attaches importance to attitude, honesty and manners, has a high willingness to learn something new, has good communication skills, hard working person, and good planning person. 
 
 - 📍 Location: Bandung,Indonesia.
 - ⚡ Fun fact: eat and travel lover
@@ -22,10 +22,11 @@ Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics studen
 <br />
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/rahmakaniadewi">
-  <img height="167em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmakaniadewi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<br />
+<!-- see https://github.com/rahmakaniadewi/github-readme-stats -->
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rahmakaniadewi&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" alt="Github Stats">
+</div>
+
   
 ### Now Playing 🎧
 
