@@ -36,3 +36,5 @@ Welcome to my profile! I'm a Data Enthusiast and undergraduate statistics studen
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/99404828/153618484-781d09f7-2daa-44dd-a6cb-71e37a54abb5.png"/>
 </h2>
+I am editing the README file. Adding some more details about the project description.
+
